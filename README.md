@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a id="readme-top"></a>
 
 <!-- SHIELDS -->
@@ -150,3 +151,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Ouch-shield]: https://img.shields.io/badge/Ouch!-tool-blue?label=Ouch!
 [Ouch-url]: https://github.com/ouch-org/ouch
 [time-screenshot]: https://cloud-l88kldf50-hack-club-bot.vercel.app/0image.png
+=======
+# Gravity Golf 🪐
+a game where you play as an asteroid!
+prepel yourself using the gravity of other planets, stars, and moons to reach your asteroid belt home!
+
+### Current Progress
+just started making the github repo and creating the project in flavortown
+>>>>>>> a2d7dc49b369459f627e1b62dd921e5b8bdd9d76
